@@ -23,7 +23,7 @@ My areas of expertise include stochastic geometry, computer vision, and their ap
 
 
 > [!NOTE] 
-> Download my [PhD thesis manuscript](files/theodon-leo-diff.pdf) and [Master's report](files/THEODON_rapport_stage.pdf). Also, my CV can be found [here](files/CV_2024_2_en.pdf) (EN).
+> Download my [PhD thesis manuscript](files/theodon-leo-diff.pdf) and [Master's report](files/THEODON_rapport_stage.pdf). My CV can be found [here](files/CV_2024_2_en.pdf) (EN).
 
 # Research interests
 
