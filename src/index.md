@@ -174,7 +174,7 @@ My research interests focus on developing innovative methods to characterize the
 - BSc in Computer Science and Software Engineering, Université de Rennes, 2007-2008
 
 # Teaching
-- Secondary School Mathematics Teacher (2010-2019)
+- Secondary School Mathematics Teacher (2010-2018)
   - Taught mathematics courses, tutorials, and labs for middle and high school students
   - Certified in CLIL (Content and Language Integrated Learning)
 - Instructor at Mines Saint-Étienne since 2021
