@@ -1,7 +1,7 @@
 ---
 title: Dr. Leo Theodon
 author: Leo Theodon
-shortbio: I am a research scientist specializing in AI, image analysis, and complex data analysis.
+shortbio: Research scientist specializing in AI, image analysis, and complex data analysis.
 description-meta: Research scientist specializing in AI, image analysis, and complex data analysis.
 og-url: https://ltheodon.github.io/ 
 email: leo.theodon@gmail.com
@@ -24,6 +24,7 @@ My areas of expertise include stochastic geometry, computer vision, and their ap
 
 > [!NOTE] 
 > Download my [PhD thesis manuscript](files/theodon-leo-diff.pdf) and [Master's report](files/THEODON_rapport_stage.pdf)
+> My CV can be found [here](files/CV_2024_2_en.pdf) (EN) (might not be up to date).
 
 # Research interests
 
