@@ -6,7 +6,7 @@ description-meta: Passionate about scientific innovation and emerging technologi
 og-url: https://ltheodon.github.io/ 
 email: leo.theodon@gmail.com
 picture: img/profile.png
-picture-round: true
+picture-round: false
 side-by-side: true
 og-picture: https://ltheodon.github.io/img/profile.png
 orcid: 0000-0002-0097-9672
