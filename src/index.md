@@ -16,7 +16,7 @@ footer: >-
 I am a PhD student working on the morphological characterization of granular materials, particularly aggregates and agglomerates, using image analysis and stochastic 3D models. My research combines approaches from computer science, applied mathematics and chemical engineering.
 
 > [!NOTE] 
-> Download my [PhD thesis manuscript](files/theodon-leo-diff.pdf) and [Master's report](files/THEDON_rapport_stage.pdf)
+> Download my [PhD thesis manuscript](files/theodon-leo-diff.pdf) and [Master's report](files/THEODON_rapport_stage.pdf)
 
 # Research interests
 
