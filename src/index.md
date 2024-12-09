@@ -129,6 +129,38 @@ My research interests focus on developing innovative methods to characterize the
 
 ## Talks
 
+``` json {.papers}
+  {
+    "title": "Morphological Characterization of Aggregates by Image Analysis : Combining Deep Learning and Stochastic Geometry",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",  
+    "venue": "RT Morphea",
+    "year": "2024"
+  },
+  {
+    "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "RT Morphea",
+    "year":  "2023"
+  },
+  {  
+    "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "RT GeoSto",  
+    "year": "2023"
+  },
+  {
+    "title": "GRAPE : A stochastic geometrical 3D model for aggregates of particles with tunable 2D morphological projected properties",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue":  "46ème journée ISS France",
+    "year": "2023"  
+  },
+  {
+    "title": "GRAPE : A simple stochastic 3D model for aggregates of particles with tunable 2D properties",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "GDR Morphea",
+    "year": "2022"
+  }
+```
 
 # Education
 
