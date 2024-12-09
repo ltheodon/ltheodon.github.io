@@ -24,6 +24,16 @@ I am a PhD student working on the morphological characterization of granular mat
 > [!NOTE] 
 > Download my [PhD thesis manuscript](files/theodon-leo-diff.pdf) and [Master's report](files/THEODON_rapport_stage.pdf)
 
+# Research interests
+
+My research interests focus on developing innovative methods to characterize the morphology of complex granular objects like aggregates:
+
+- Designing stochastic geometrical 3D models to generate realistic virtual aggregates with tunable morphological properties
+- Using deep learning techniques like GANs and CNNs for instance segmentation of aggregates in 2D images
+- Combining image analysis, stochastic modeling and machine learning to estimate 3D morphological descriptors of aggregates from 2D projected data
+- Applying these tools to better understand and control industrial granular processes (particle aggregation, powder flowability, etc.)
+
+
 # Publications
 
 ## Conference papers
