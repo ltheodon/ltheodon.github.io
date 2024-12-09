@@ -15,7 +15,7 @@ github: ltheodon
 linkedin: https://www.linkedin.com/in/l%C3%A9o-th%C3%A9odon-86a07a155/
 
 footer: >-
-  So Long, and Thanks for All the Fish
+  So Long, and [Thanks](https://github.com/basicpage/basicpage.github.io) for All the Fish
 ---
 
 I am a PhD student working on the morphological characterization of granular materials, particularly aggregates and agglomerates, using image analysis and stochastic 3D models. My research combines approaches from computer science, applied mathematics and chemical engineering.
@@ -161,17 +161,24 @@ My research interests focus on developing innovative methods to characterize the
 ```
 
 # Education
-
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- PhD in Computational and Applied Mathematics, Mines Saint-Étienne, 2021-2024
+- Master in Mathematical Imaging and Spatial Pattern Analysis, Mines Saint-Étienne, 2020-2021
+- Engineering Degree, Mines Saint-Étienne, 2019-2021
+- BSc in Fundamental and Applied Physics, Université de Bourgogne, 2018-2019
+- Master 2 in Mathematics and Applications, Université de Bourgogne, 2011-2012
+- Master 1 in Fundamental and Applied Mathematics, Université de Rennes, 2009-2010
+- Master 1 in Computer Science and Software Engineering, Université de Rennes, 2008-2009
+- BSc in Computer Science and Software Engineering, Université de Rennes, 2007-2008
 
 # Teaching
+- Secondary School Mathematics Teacher (2010-2019)
+  - Taught mathematics courses, tutorials, and labs for middle and high school students
+  - Prepared students for national exams (Brevet, Baccalauréat)
 
-- I am teaching the TD sessions on the 👽 science course.
-
-# Community service
-
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
+- Instructor at Mines Saint-Étienne since 2019
+  - Taught over 450 hours of lectures, tutorials, and labs, primarily in signal and image processing at the master's level
+  - Supervised student projects and internships
+  - Courses taught:
+    - Image analysis for materials characterization
+    - Advanced signal and image processing
+    - Machine learning and computer vision
