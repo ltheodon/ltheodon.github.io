@@ -10,7 +10,6 @@ picture-round: true
 side-by-side: true
 og-picture: https://ltheodon.github.io/img/profile.png
 orcid: 0000-0002-0097-9672
-mastodon: https://lipn.info
 github: ltheodon
 linkedin: https://www.linkedin.com/in/l%C3%A9o-th%C3%A9odon-86a07a155/
 
