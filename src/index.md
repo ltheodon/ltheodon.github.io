@@ -80,8 +80,6 @@ My research interests focus on developing innovative methods to characterize the
 ``` json {.paper}
 "title": "Complete Workflow Based on GANs and CNNs to Estimate the 3D Morphological Characteristics of Latex Aggregates from 2D Images",
 "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
-"venue": "Pattern Recognition",
-"year": "-"
 ```
 ``` json {.paper}
 "title": "VOX-STORM : A stochastic 3D model based on a dual voxel-mesh architecture for the morphological characterization of aggregates",
@@ -120,7 +118,7 @@ My research interests focus on developing innovative methods to characterize the
 ```
 ``` json {.paper}
 "title": "Estimating the Parameters of a Stochastic Geometrical Model for Multiphase Flow Images Using Local Measures",
-"authors": "Théodon, L.",
+"authors": "Théodon, L., Eremina, T., Dia, K., Lamadie, F., Pinoli, J.-C., & Debayle, J.",
 "venue": "Image Analysis & Stereology",
 "year": "2021",
 "url": "https://doi.org/10.5566/ias.2638"
