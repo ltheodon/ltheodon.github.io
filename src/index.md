@@ -127,40 +127,39 @@ My research interests focus on developing innovative methods to characterize the
 ```
 
 
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
-```
-
 ## Talks
 
 ``` json {.papers}
-{
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
-}
+  {
+    "title": "Morphological Characterization of Aggregates by Image Analysis : Combining Deep Learning and Stochastic Geometry",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",  
+    "venue": "RT Morphea",
+    "year": "2024"
+  },
+  {
+    "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "RT Morphea",
+    "year":  "2023"
+  },
+  {  
+    "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "RT GeoSto",  
+    "year": "2023"
+  },
+  {
+    "title": "GRAPE : A stochastic geometrical 3D model for aggregates of particles with tunable 2D morphological projected properties",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue":  "46ème journée ISS France",
+    "year": "2023"  
+  },
+  {
+    "title": "GRAPE : A simple stochastic 3D model for aggregates of particles with tunable 2D properties",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "GDR Morphea",
+    "year": "2022"
+  }
 ```
 
 # Education
