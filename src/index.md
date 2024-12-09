@@ -1,8 +1,8 @@
 ---
 title: Dr. Leo Theodon
 author: Leo Theodon
-shortbio: Passionate about scientific innovation and emerging technologies, I combine multidisciplinary skills in engineering, image processing, and Machine Learning to develop original solutions aimed at performance and technical excellence.
-description-meta: Passionate about scientific innovation and emerging technologies, I combine multidisciplinary skills in engineering, image processing, and Machine Learning to develop original solutions aimed at performance and technical excellence.
+shortbio: I am a research scientist specializing in AI, image analysis, and complex data analysis.
+description-meta: Research scientist specializing in AI, image analysis, and complex data analysis.
 og-url: https://ltheodon.github.io/ 
 email: leo.theodon@gmail.com
 picture: img/profile.png
@@ -18,7 +18,9 @@ footer: >-
   So Long, and Thanks for [All the Fish](https://github.com/basicpage/basicpage.github.io)
 ---
 
-I am a PhD student working on the morphological characterization of granular materials, particularly aggregates and agglomerates, using image analysis and stochastic 3D models. My research combines approaches from computer science, applied mathematics and chemical engineering.
+I am a research scientist with a PhD in computational and applied mathematics from Mines Saint-Étienne. My work focuses on developing advanced image analysis and machine learning methods for materials characterization.
+
+My areas of expertise include stochastic geometry, computer vision, and their applications in fields such as process engineering and materials science. I am particularly drawn to solving complex data analysis problems involving images and 3D geometrical structures, while also exploring broader aspects of artificial intelligence—such as machine learning, deep learning, and data science—and their transformative impact on the world.
 
 
 > [!NOTE] 
@@ -176,11 +178,10 @@ My research interests focus on developing innovative methods to characterize the
 - Secondary School Mathematics Teacher (2010-2019)
   - Taught mathematics courses, tutorials, and labs for middle and high school students
   - Prepared students for national exams (Brevet, Baccalauréat)
-
 - Instructor at Mines Saint-Étienne since 2019
   - Taught over 450 hours of lectures, tutorials, and labs, primarily in signal and image processing at the master's level
   - Supervised student projects and internships
   - Courses taught:
-    - Image analysis for materials characterization
+    - Image and pattern analysis
     - Advanced signal and image processing
     - Machine learning and computer vision
