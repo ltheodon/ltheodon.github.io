@@ -9,19 +9,20 @@ picture: img/profile.png
 picture-round: true
 side-by-side: true
 og-picture: https://ltheodon.github.io/img/profile.png
+orcid: 0000-0002-0097-9672
+mastodon: https://lipn.info
+github: ltheodon
+linkedin: https://www.linkedin.com/in/l%C3%A9o-th%C3%A9odon-86a07a155/
+
 footer: >-
   So Long, and Thanks for All the Fish
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am a PhD student working on the morphological characterization of granular materials, particularly aggregates and agglomerates, using image analysis and stochastic 3D models. My research combines approaches from computer science, applied mathematics and chemical engineering.
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
 
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
+> [!NOTE] 
+> Download my [PhD thesis manuscript](files/theodon-leo-diff.pdf) and [Master's report](files/THEODON_rapport_stage.pdf)
 
 # Publications
 
