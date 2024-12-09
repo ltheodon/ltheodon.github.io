@@ -5,10 +5,10 @@ shortbio: Passionate about scientific innovation and emerging technologies, I co
 description-meta: Passionate about scientific innovation and emerging technologies, I combine multidisciplinary skills in engineering, image processing, and Machine Learning to develop original solutions aimed at performance and technical excellence.
 og-url: https://ltheodon.github.io/ 
 email: leo.theodon@gmail.com
-picture: img/profile.jpg
+picture: img/profile.png
 picture-round: true
 side-by-side: true
-og-picture: https://ltheodon.github.io/img/profile.jpg
+og-picture: https://ltheodon.github.io/img/profile.png
 footer: >-
   So Long, and Thanks for All the Fish
 ---
