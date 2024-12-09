@@ -43,7 +43,7 @@ My main research interests include:
 ``` json {.paper}
 "title": "Deep Learning-Based Instance Segmentation to Characterize the Morphology of Compact Aggregates through Image Analysis",
 "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
-"venue": "2024 IEEE 14th International Conference on Pattern Recognition Systems (ICPRS) – <strong>Best Paper Award</strong>** – ",
+"venue": "2024 IEEE 14th International Conference on Pattern Recognition Systems (ICPRS) – Best Paper Award – ",
 "year": "2024",
 "url": "https://doi.org/10.1109/ICPRS62101.2024.10677841"
 ```
