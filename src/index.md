@@ -29,13 +29,14 @@ My areas of expertise include stochastic geometry, computer vision, and their ap
 
 # Research interests
 
-My research interests focus on developing innovative methods to characterize the morphology of complex granular objects like aggregates:
+I am passionate about advancing artificial intelligence and data science through interdisciplinary approaches. My work focuses on developing innovative methods for image analysis, machine learning, and 3D geometrical modeling, with applications across diverse domains. My goal is to solve complex challenges and contribute to the ethical and impactful integration of emerging technologies in society.
 
-- Designing stochastic geometrical 3D models to generate realistic virtual aggregates with tunable morphological properties
-- Using deep learning techniques like GANs and CNNs for instance segmentation of aggregates in 2D images
-- Combining image analysis, stochastic modeling and machine learning to estimate 3D morphological descriptors of aggregates from 2D projected data
-- Applying these tools to better understand and control industrial granular processes (particle aggregation, powder flowability, etc.)
+My main research interests include:
 
+- AI and Machine Learning: Developing and applying advanced techniques (e.g., GANs, CNNs) for image and data analysis.
+- 3D Modeling and Simulation: Designing stochastic geometrical models and leveraging digital twins for complex systems.
+- Data Science and Digital Transformation: Combining AI, stochastic methods, and statistical analysis to address challenges in industrial processes and other fields.
+- Societal Impact of AI: Exploring the transformative effects of AI technologies on industries, employment, and ethical considerations.
 
 # Publications
 
