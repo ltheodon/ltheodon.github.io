@@ -19,7 +19,7 @@ footer: >-
 
 I am a research scientist with a PhD in computational and applied mathematics from Mines Saint-Étienne. My work focuses on developing advanced image analysis and machine learning methods for materials characterization.
 
-My areas of expertise include stochastic geometry, computer vision, and their applications in fields such as process engineering and materials science. I am particularly drawn to solving complex data analysis problems involving images and 3D geometrical structures, while also exploring broader aspects of artificial intelligence—such as machine learning, deep learning, and data science—and their transformative impact on the world.
+My areas of expertise include stochastic geometry, computer vision, and their applications in fields such as process engineering and materials science. I am particularly drawn to solving complex data analysis problems involving images and 3D geometrical structures, while also exploring broader aspects of artificial intelligence - such as machine learning, deep learning, and data science - and their transformative impact on the world.
 
 
 > [!NOTE] 
