@@ -39,23 +39,28 @@ My research interests focus on developing innovative methods to characterize the
 ## Conference papers
 
 ``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
-"files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
+[
+  {
+    "title": "A stochastic 3D model based on random graphs to characterize the morphology of compact aggregates using image analysis",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "11th International Symposium on Signal, Image, Video and Communications (ISIVC)",
+    "year": "2024",
+    "url": "https://doi.org/10.1109/ISIVC61350.2024.10577874"
+  },
+  {    
+    "title": "Deep Learning-Based Instance Segmentation to Characterize the Morphology of Compact Aggregates through Image Analysis",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue":  "2024 IEEE 14th International Conference on Pattern Recognition Systems (ICPRS)",
+    "year": "2024",
+    "url": "https://doi.org/10.1109/ICPRS62101.2024.10677841"
+  },
+  {
+    "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
+    "authors":  "Théodon, L., Coufort-Saudejaud, C., Hamieh, A., & Debayle, J.",
+    "venue": "2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS)",
+    "year": "2023",
+    "url": "https://doi.org/10.1109/ICPRS58416.2023.10179036"  
+  }
 ]
 ```
 
