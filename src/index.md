@@ -5,10 +5,10 @@ shortbio: I am a research scientist specializing in AI, image analysis, and comp
 description-meta: Research scientist specializing in AI, image analysis, and complex data analysis.
 og-url: https://ltheodon.github.io/ 
 email: leo.theodon@gmail.com
-picture: img/profile.png
+picture: img/profile.jpg
 picture-round: true
 side-by-side: true
-og-picture: https://ltheodon.github.io/img/profile.png
+og-picture: https://ltheodon.github.io/img/profile.jpg
 orcid: 0000-0002-0097-9672
 github: ltheodon
 linkedin: https://www.linkedin.com/in/l%C3%A9o-th%C3%A9odon-86a07a155/
