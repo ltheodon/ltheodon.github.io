@@ -1,171 +1,145 @@
 ---
-title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
-picture: img/profile.png
-picture-round: false
+title: Dr. Leo Theodon
+author: Leo Theodon
+shortbio: Passionate about scientific innovation and emerging technologies, I combine multidisciplinary skills in engineering, image processing, and Machine Learning to develop original solutions aimed at performance and technical excellence.
+description-meta: Passionate about scientific innovation and emerging technologies, I combine multidisciplinary skills in engineering, image processing, and Machine Learning to develop original solutions aimed at performance and technical excellence.
+og-url: https://ltheodon.github.io/ 
+email: leo.theodon@gmail.com
+picture: img/profile.jpg
+picture-round: true
 side-by-side: true
-pronouns: They/Them
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+og-picture: https://ltheodon.github.io/img/profile.jpg
 footer: >-
-  Based on the
-  [basicpage template](https://github.com/basicpage/basicpage.github.io),
-  made to be easy to use! 🎓
+  So Long, and Thanks for All the Fish
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am a PhD student working on the morphological characterization of granular materials, particularly aggregates and agglomerates, using image analysis and stochastic 3D models. My research combines approaches from computer science, applied mathematics and chemical engineering.
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
+> [!NOTE] 
+> Download my [PhD thesis manuscript](files/theodon-leo-diff.pdf) and [Master's report](files/THEDON_rapport_stage.pdf)
 
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
+# Research interests
+
+My research interests focus on developing innovative methods to characterize the morphology of complex granular objects like aggregates:
+
+- Designing stochastic geometrical 3D models to generate realistic virtual aggregates with tunable morphological properties
+- Using deep learning techniques like GANs and CNNs for instance segmentation of aggregates in 2D images
+- Combining image analysis, stochastic modeling and machine learning to estimate 3D morphological descriptors of aggregates from 2D projected data
+- Applying these tools to better understand and control industrial granular processes (particle aggregation, powder flowability, etc.)
 
 # Publications
 
-## Conference papers
+## Journal papers
 
-``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
-"files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
+``` json {.papers}
+[
+  {
+    "title": "Complete Workflow Based on GANs and CNNs to Estimate the 3D Morphological Characteristics of Latex Aggregates from 2D Images",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "Pattern Recognition",
+    "year": "Submitted"
+  },
+  {
+    "title": "VOX-STORM : A stochastic 3D model based on a dual voxel-mesh architecture for the morphological characterization of aggregates", 
+    "authors": "Théodon, L., Debayle, J., & Coufort-Saudejaud, C.",
+    "venue": "Powder Technology",
+    "year": "2024",
+    "url": "https://doi.org/10.1016/j.powtec.2024.119983"
+  },
+  {
+    "title": "A stochastic model based on Gaussian random fields to characterize the morphology of granular objects",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.", 
+    "venue": "Pattern Recognition",
+    "year": "2024",
+    "url": "https://doi.org/10.1016/j.patcog.2024.110255"
+  },
+  {
+    "title": "Morphological characterization of aggregates and agglomerates by image analysis : A systematic literature review",
+    "authors": "Théodon, L., Debayle, J., & Coufort-Saudejaud, C.",
+    "venue": "Powder Technology", 
+    "year": "2023",
+    "url": "https://doi.org/10.1016/j.powtec.2023.119033"
+  },
+  {
+    "title": "GRAPE : A Stochastic Geometrical 3D Model for Aggregates of Particles With Tunable 2D Morphological Projected Properties",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "Image Analysis and Stereology",
+    "year": "2023", 
+    "url": "https://doi.org/10.5566/ias.2875"
+  }
 ]
 ```
 
-## Journal papers
+## Conference papers
 
-``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
-```
-
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
-
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
-
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
+``` json {.papers}
+[
+  {
+    "title": "A stochastic 3D model based on random graphs to characterize the morphology of compact aggregates using image analysis",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "11th International Symposium on Signal, Image, Video and Communications (ISIVC)",
+    "year": "2024",
+    "url": "https://doi.org/10.1109/ISIVC61350.2024.10577874"
+  },
+  {    
+    "title": "Deep Learning-Based Instance Segmentation to Characterize the Morphology of Compact Aggregates through Image Analysis",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue":  "2024 IEEE 14th International Conference on Pattern Recognition Systems (ICPRS)",
+    "year": "2024",
+    "url": "https://doi.org/10.1109/ICPRS62101.2024.10677841"
+  },
+  {
+    "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
+    "authors":  "Théodon, L., Coufort-Saudejaud, C., Hamieh, A., & Debayle, J.",
+    "venue": "2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS)",
+    "year": "2023",
+    "url": "https://doi.org/10.1109/ICPRS58416.2023.10179036"  
+  }
 ]
 ```
 
 ## Talks
 
-``` json {.papers}
-{
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
-}
+``` json {.papers}  
+[
+  {
+    "title": "Morphological Characterization of Aggregates by Image Analysis : Combining Deep Learning and Stochastic Geometry",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",  
+    "venue": "RT Morphea",
+    "year": "2024"
+  },
+  {
+    "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "RT Morphea",
+    "year":  "2023"
+  },
+  {  
+    "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "RT GeoSto",  
+    "year": "2023"
+  },
+  {
+    "title": "GRAPE : A stochastic geometrical 3D model for aggregates of particles with tunable 2D morphological projected properties",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue":  "46ème journée ISS France",
+    "year": "2023"  
+  },
+  {
+    "title": "GRAPE : A simple stochastic 3D model for aggregates of particles with tunable 2D properties",
+    "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+    "venue": "GDR Morphea",
+    "year": "2022"
+  }
+]
 ```
 
 # Education
-
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- PhD in Morphological Engineering, Mines Saint-Étienne, 2021-2024
+- MSc in Process Engineering, Mines Saint-Étienne, 2021
+- BSc in Chemistry, Université de Montpellier, 2019
 
 # Teaching
 
-- I am teaching the TD sessions on the 👽 science course.
-
-# Community service
-
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
+- I am teaching the TD sessions on image analysis for materials characterization at Mines Saint-Étienne.
