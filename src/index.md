@@ -15,7 +15,7 @@ github: ltheodon
 linkedin: https://www.linkedin.com/in/l%C3%A9o-th%C3%A9odon-86a07a155/
 
 footer: >-
-  So Long, and [Thanks](https://github.com/basicpage/basicpage.github.io) for All the Fish
+  So Long, and Thanks for [All the Fish](https://github.com/basicpage/basicpage.github.io)
 ---
 
 I am a PhD student working on the morphological characterization of granular materials, particularly aggregates and agglomerates, using image analysis and stochastic 3D models. My research combines approaches from computer science, applied mathematics and chemical engineering.
