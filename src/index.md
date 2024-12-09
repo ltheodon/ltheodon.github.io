@@ -39,18 +39,18 @@ My research interests focus on developing innovative methods to characterize the
 ## Conference papers
 
 ``` json {.paper}
-"title": "A stochastic 3D model based on random graphs to characterize the morphology of compact aggregates using image analysis",
-"authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
-"venue": "11th International Symposium on Signal, Image, Video and Communications (ISIVC)",
-"year": "2024",
-"url": "https://doi.org/10.1109/ISIVC61350.2024.10577874"
-```
-``` json {.paper}
 "title": "Deep Learning-Based Instance Segmentation to Characterize the Morphology of Compact Aggregates through Image Analysis",
 "authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
 "venue": "2024 IEEE 14th International Conference on Pattern Recognition Systems (ICPRS)",
 "year": "2024",
 "url": "https://doi.org/10.1109/ICPRS62101.2024.10677841"
+```
+``` json {.paper}
+"title": "A stochastic 3D model based on random graphs to characterize the morphology of compact aggregates using image analysis",
+"authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+"venue": "11th International Symposium on Signal, Image, Video and Communications (ISIVC)",
+"year": "2024",
+"url": "https://doi.org/10.1109/ISIVC61350.2024.10577874"
 ```
 ``` json {.paper}
 "title": "Morphological characterization of compact aggregates using image analysis and a geometrical stochastic 3D model",
@@ -59,63 +59,73 @@ My research interests focus on developing innovative methods to characterize the
 "year": "2023",
 "url": "https://doi.org/10.1109/ICPRS58416.2023.10179036"
 ```
+``` json {.paper}
+"title": "Granulometric Analysis of Maltodextrin Particles Observed by Scanning Electron Microscopy",
+"authors": "Bottenmuller, A., Théodon, L., Debayle, J., Tobón Vélez, D., Tourbin, M., Frances, C., & Gavet, Y.",
+"venue": "2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS)",
+"year": "2023",
+"url": "https://doi.org/10.1109/icprs58416.2023.10179067"
+```
+``` json {.paper}
+"title": "A stochastic 3D model for three-phase heterogeneous microstructures in SOFC-electrodes",
+"authors": "Théodon, L., Laurencin, J., Cloetens, P., & Debayle, J.",
+"venue": "2022 11th International Symposium on Signal, Image, Video and Communications (ISIVC)",
+"year": "2022", 
+"url": "https://doi.org/10.1109/isivc54825.2022.9800735"
+```
 
 
 ## Journal papers
 
 ``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
+"title": "Complete Workflow Based on GANs and CNNs to Estimate the 3D Morphological Characteristics of Latex Aggregates from 2D Images",
+"authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+"venue": "Pattern Recognition",
+"year": "-"
+```
+``` yaml {.paper}
+"title": "VOX-STORM : A stochastic 3D model based on a dual voxel-mesh architecture for the morphological characterization of aggregates",
+"authors": "Théodon, L., Debayle, J., & Coufort-Saudejaud, C.", 
+"venue": "Powder Technology",
+"year": "2024",
+"url": "https://doi.org/10.1016/j.powtec.2024.119983"
+```
+``` yaml {.paper}
+"title": "A stochastic model based on Gaussian random fields to characterize the morphology of granular objects",
+"authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+"venue": "Pattern Recognition",
+"year": "2024",
+"url": "https://doi.org/10.1016/j.patcog.2024.110255"
+```
+``` yaml {.paper}
+"title": "Morphological characterization of aggregates and agglomerates by image analysis : A systematic literature review",
+"authors": "Théodon, L., Debayle, J., & Coufort-Saudejaud, C.", 
+"venue": "Powder Technology",
+"year": "2023",
+"url": "https://doi.org/10.1016/j.powtec.2023.119033"
+```
+``` yaml {.paper}
+"title": "GRAPE : A Stochastic Geometrical 3D Model for Aggregates of Particles With Tunable 2D Morphological Projected Properties",
+"authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+"venue": "Image Analysis and Stereology", 
+"year": "2023",
+"url": "https://doi.org/10.5566/ias.2875"
+```
+``` yaml {.paper}
+"title": "A stochastic geometrical 3D model for time evolution simulation of microstructures in SOC-electrodes",
+"authors": "Théodon, L., Laurencin, J., Hubert, M., Cloetens, P., & Debayle, J.",
+"venue": "Computational Materials Science",
+"year": "2022",
+"url": "https://doi.org/10.1016/j.commatsci.2022.111568"
+```
+``` yaml {.paper}
+"title": "Estimating the Parameters of a Stochastic Geometrical Model for Multiphase Flow Images Using Local Measures",
+"authors": "Théodon, L.",
+"venue": "Image Analysis & Stereology",
+"year": "2021",
+"url": "https://doi.org/10.5566/ias.2638"
 ```
 
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
-
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
 
 ## Drafts
 
