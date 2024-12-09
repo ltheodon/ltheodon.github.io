@@ -176,7 +176,7 @@ My research interests focus on developing innovative methods to characterize the
 # Teaching
 - Secondary School Mathematics Teacher (2010-2019)
   - Taught mathematics courses, tutorials, and labs for middle and high school students
-  - Prepared students for national exams (Brevet, Baccalauréat)
+  - Certified in CLIL (Content and Language Integrated Learning) to teach in English
 - Instructor at Mines Saint-Étienne since 2019
   - Taught over 450 hours of lectures, tutorials, and labs, primarily in signal and image processing at the master's level
   - Supervised student projects and internships
