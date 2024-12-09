@@ -168,9 +168,9 @@ My research interests focus on developing innovative methods to characterize the
 - Master in Mathematical Imaging and Spatial Pattern Analysis, Mines Saint-Étienne, 2020-2021
 - Engineering Degree, Mines Saint-Étienne, 2019-2021
 - BSc in Fundamental and Applied Physics, Université de Bourgogne, 2018-2019
-- Master 2 in Mathematics and Applications, Université de Bourgogne, 2011-2012
-- Master 1 in Fundamental and Applied Mathematics, Université de Rennes, 2009-2010
-- Master 1 in Computer Science and Software Engineering, Université de Rennes, 2008-2009
+- Master's Degree in Mathematics and Applications, Université de Bourgogne, 2011-2012
+- First year of a Master's program in Fundamental and Applied Mathematics, Université de Rennes, 2009-2010
+- First year of a Master's program in Computer Science and Software Engineering, Université de Rennes, 2008-2009
 - BSc in Computer Science and Software Engineering, Université de Rennes, 2007-2008
 
 # Teaching
