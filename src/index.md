@@ -77,6 +77,55 @@ My research interests focus on developing innovative methods to characterize the
 
 ## Journal papers
 
+``` json {.paper}
+"title": "Complete Workflow Based on GANs and CNNs to Estimate the 3D Morphological Characteristics of Latex Aggregates from 2D Images",
+"authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+"venue": "Pattern Recognition",
+"year": "-"
+```
+``` json {.paper}
+"title": "VOX-STORM : A stochastic 3D model based on a dual voxel-mesh architecture for the morphological characterization of aggregates",
+"authors": "Théodon, L., Debayle, J., & Coufort-Saudejaud, C.", 
+"venue": "Powder Technology",
+"year": "2024",
+"url": "https://doi.org/10.1016/j.powtec.2024.119983"
+```
+``` json {.paper}
+"title": "A stochastic model based on Gaussian random fields to characterize the morphology of granular objects",
+"authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+"venue": "Pattern Recognition",
+"year": "2024",
+"url": "https://doi.org/10.1016/j.patcog.2024.110255"
+```
+``` json {.paper}
+"title": "Morphological characterization of aggregates and agglomerates by image analysis : A systematic literature review",
+"authors": "Théodon, L., Debayle, J., & Coufort-Saudejaud, C.", 
+"venue": "Powder Technology",
+"year": "2023",
+"url": "https://doi.org/10.1016/j.powtec.2023.119033"
+```
+``` json {.paper}
+"title": "GRAPE : A Stochastic Geometrical 3D Model for Aggregates of Particles With Tunable 2D Morphological Projected Properties",
+"authors": "Théodon, L., Coufort-Saudejaud, C., & Debayle, J.",
+"venue": "Image Analysis and Stereology", 
+"year": "2023",
+"url": "https://doi.org/10.5566/ias.2875"
+```
+``` json {.paper}
+"title": "A stochastic geometrical 3D model for time evolution simulation of microstructures in SOC-electrodes",
+"authors": "Théodon, L., Laurencin, J., Hubert, M., Cloetens, P., & Debayle, J.",
+"venue": "Computational Materials Science",
+"year": "2022",
+"url": "https://doi.org/10.1016/j.commatsci.2022.111568"
+```
+``` json {.paper}
+"title": "Estimating the Parameters of a Stochastic Geometrical Model for Multiphase Flow Images Using Local Measures",
+"authors": "Théodon, L.",
+"venue": "Image Analysis & Stereology",
+"year": "2021",
+"url": "https://doi.org/10.5566/ias.2638"
+```
+
 
 ## Talks
 
